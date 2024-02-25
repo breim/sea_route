@@ -2,7 +2,7 @@
 
 ## Overview
 
-In developing the code, I aimed to prioritize readability and simplicity to ensure it remains straightforward and easy to understand. While I recognize there is room for improvement in terms of dependency injection, I opted to avoid adding complexity to maintain the code's approachability and ease of maintenance. 
+In developing the code, I aimed to prioritize readability and simplicity to ensure it remains straightforward and easy to understand. While I recognize there is room for improvement in terms of dependency injection and mocks insided tests, I opted to avoid adding complexity to maintain the code's approachability and ease of maintenance. 
 
 You can also check for app.rb file to see the implementation of the endpoints.
 
