@@ -7,7 +7,7 @@ gem 'sinatra'
 gem 'sinatra-contrib'
 
 group :development do
-  gem 'debug'
+  gem 'pry-byebug'
   gem 'rubocop', '~> 1.59', require: false
   gem 'ruby-lsp', require: false
 end
@@ -15,4 +15,5 @@ end
 group :test do
   gem 'rack-test', '~> 2.1'
   gem 'rspec'
+  gem 'simplecov', require: false
 end
